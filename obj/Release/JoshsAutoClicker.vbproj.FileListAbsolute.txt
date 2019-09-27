@@ -1,0 +1,40 @@
+D:\VS Project Releases\WindowsApp8.exe.config
+D:\VS Project Releases\WindowsApp8.exe.manifest
+D:\VS Project Releases\WindowsApp8.application
+D:\VS Project Releases\WindowsApp8.exe
+D:\VS Project Releases\WindowsApp8.pdb
+D:\VS Project Releases\WindowsApp8.xml
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmInventorySlots.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmSetUp.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmSettings.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Resources.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmMain.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\JoshsAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\JoshsAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.exe.manifest
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.application
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.exe
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.xml
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.pdb
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\JoshsAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmInputBox.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmMessageBox.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmHealing.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.frmPrayer.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\JoshsAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmHealing.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmInputBox.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmInventorySlots.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmMessageBox.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmPrayer.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmSetUp.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmSettings.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.Resources.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.frmMain.resources
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\JoshsAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\JoshsAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.exe.manifest
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.application
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.exe
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.xml
+C:\Users\Josh\source\repos\Josh's Auto Clicker\WindowsApp8\obj\Release\WindowsApp8.pdb

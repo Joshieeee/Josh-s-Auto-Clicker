@@ -1,0 +1,16 @@
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.exe.config
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.exe
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.pdb
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.xml
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbproj.CoreCompileInputs.cache
+D:\VS Project Releases\WindowsApp8.exe.config
+D:\VS Project Releases\WindowsApp8.exe
+D:\VS Project Releases\WindowsApp8.pdb
+D:\VS Project Releases\WindowsApp8.xml
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Resources.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Form1.resources
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.exe
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.xml
+C:\Users\Josh\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.pdb
